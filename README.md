@@ -1,15 +1,18 @@
 <div align="center">
 
-<!-- Animated Introduction -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+I'm+Aditi+Joshi+%F0%9F%91%8B" alt="Hello I'm Aditi Joshi" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&height=70&lines=Aditi+Joshi" alt="Aditi Joshi"/>
 
-<br/>
+<p>
+  <b>Computer Engineering Student</b> •
+  <b>Full-Stack Developer</b> •
+  <b>AI/ML Enthusiast</b>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&height=50&lines=Computer+Engineering+Student;Full-Stack+Developer;AI%2FML+%26+GenAI+Enthusiast;Problem+Solver+%7C+Tech+Explorer" alt="Roles" />
+<p>
+  Building practical solutions with code, data & AI 🚀
+</p>
 
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Developer Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Developer Animation"/>
 
 </div>
 
