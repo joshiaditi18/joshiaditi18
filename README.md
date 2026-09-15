@@ -1,19 +1,21 @@
 <div align="center">
 
-  <!-- Welcome Header -->
+<!-- Animated Introduction -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=2E9EF7&center=true&vCenter=true&width=700&height=60&lines=Hello%2C+I'm+Aditi+Joshi+%F0%9F%91%8B" alt="Hello I'm Aditi Joshi" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=120&lines=Hello+I'm+Aditi+Joshi;Computer+Engineering+Student+%7C+Full-Stack+Developer;AI%2FML+%26+GenAI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+<br/>
 
-  <!-- Intro GIF -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=7AA2F7&center=true&vCenter=true&width=700&height=50&lines=Computer+Engineering+Student;Full-Stack+Developer;AI%2FML+%26+GenAI+Enthusiast;Problem+Solver+%7C+Tech+Explorer" alt="Roles" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Developer GIF" />
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Developer Animation"/>
 
 </div>
 
 <br/>
 
 ---
-
 ## 💫 About Me & 🚀 What I Do
 
 <table border="0" width="100%">
