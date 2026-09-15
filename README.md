@@ -58,11 +58,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=joshiaditi18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+### 📂 Your Repositories
 
-![](https://nirzak-streak-stats.vercel.app/?user=joshiaditi18&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joshiaditi18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Repositories](https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joshiaditi18?tab=repositories)
 
 ---
 
