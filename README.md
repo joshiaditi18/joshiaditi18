@@ -1,73 +1,41 @@
 <div align="center">
 
-<!-- ==================== HEADER ==================== -->
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&height=70&lines=Aditi+Joshi" alt="Aditi Joshi"/>
 
 <p>
-  <b>Computer Engineering Student</b> •
-  <b>Full-Stack Developer</b> •
-  <b>AI/ML Enthusiast</b>
+<b>Computer Engineering Student</b> •
+<b>Full-Stack Developer</b> •
+<b>AI/ML Enthusiast</b>
 </p>
 
 <p>
-  Building practical solutions with code, data & AI 🚀
+Building practical solutions with code, data & AI 🚀
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="380" alt="Developer Animation"/>
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+# 💫 About Me:
 
-## 💫 About Me & 🚀 What I Do
+🎓 I'm a third-year B.Tech Computer Engineering student from India
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
+💻 I love building full-stack web applications and AI-powered systems
 
-      <h3>👩‍💻 Hi, I'm Aditi Joshi</h3>
+🧠 Passionate about Machine Learning, Generative AI, Data Analytics, and problem solving
 
-      <p>
-        I'm a Computer Engineering student passionate about
-        building practical solutions through technology, AI, and code.
-      </p>
+🌱 Currently exploring AI/ML, intelligent systems, web development, and real-world applications
 
-      <ul>
-        <li>✨ I enjoy building <strong>full-stack applications</strong> and <strong>AI-powered systems</strong>.</li>
-        <li>🧠 Interested in <strong>Machine Learning, Generative AI, Data Analytics, and intelligent systems</strong>.</li>
-        <li>⚡ I enjoy turning <strong>real-world problems into technology-driven solutions</strong>.</li>
-      </ul>
+🛠️ Tech I'm into: C++, Python, JavaScript, React, Node.js, Flask, MongoDB, SQL, TensorFlow, PyTorch, and more
 
-    </td>
+🤝 Open to internships, collaborations, research opportunities, and hackathons
 
-    <td width="50%" valign="top">
-
-      <h3>🛠️ What I Focus On</h3>
-
-      <ul>
-        <li>Full-stack web development using React, Node.js, Express.js and Flask</li>
-        <li>AI/ML solutions using Python, TensorFlow, PyTorch and Scikit-learn</li>
-        <li>Data analysis and visualization using Pandas, NumPy, SQL and Power BI</li>
-        <li>Exploring Generative AI, NLP, Deep Learning and intelligent systems</li>
-      </ul>
-
-      <p>
-        🎯 <strong>Current Goal:</strong> Learn, build, experiment, and create
-        solutions that make technology useful in the real world.
-      </p>
-
-    </td>
-  </tr>
-</table>
+⚡ Fun fact: I enjoy turning real-world problems into technology-driven solutions!
 
 ---
-
-<!-- ==================== SOCIALS ==================== -->
+---
 
 ## 🌐 Connect With Me
 
@@ -83,8 +51,6 @@
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
-
 # 💻 Tech Stack
 
 <div align="center">
@@ -96,8 +62,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br/>
-
 ### 🔹 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -107,14 +71,10 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<br/>
-
 ### 🔹 Database
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br/>
 
 ### 🔹 AI / Machine Learning
 
@@ -124,15 +84,11 @@
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
-<br/>
-
 ### 🔹 Data Science & Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-<br/>
 
 ### 🔹 Tools
 
@@ -144,36 +100,7 @@
 </div>
 
 ---
-
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<table border="0">
-<tr>
-
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=joshiaditi18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-</td>
-
-<td>
-<img src="https://nirzak-streak-stats.vercel.app/?user=joshiaditi18&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joshiaditi18&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
-
-</div>
-
 ---
-
-<!-- ==================== REPOSITORIES ==================== -->
 
 ## 📂 Your Repositories
 
@@ -185,31 +112,25 @@
 
 ---
 
-<!-- ==================== TROPHIES ==================== -->
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=joshiaditi18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 </div>
 
 ---
-
-<!-- ==================== CONTRIBUTED REPOSITORY ==================== -->
 
 ### 🔝 Top Contributed Repo
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=joshiaditi18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 </div>
 
 ---
-
-<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
