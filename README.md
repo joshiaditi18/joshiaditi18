@@ -1,20 +1,56 @@
-# 💫 About Me:
+<div align="center">
 
-🎓 I'm a third-year B.Tech Computer Engineering student from India
+  <!-- Welcome Header -->
 
-💻 I love building full-stack web applications and AI-powered systems
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=120&lines=Hello+I'm+Aditi+Joshi;Computer+Engineering+Student+%7C+Full-Stack+Developer;AI%2FML+%26+GenAI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 
-🧠 Passionate about Machine Learning, Generative AI, Data Analytics, and problem solving
+  <!-- Intro GIF -->
 
-🌱 Currently exploring AI/ML, intelligent systems, web development, and real-world applications
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450" alt="Developer GIF" />
 
-🛠️ Tech I'm into: C++, Python, JavaScript, React, Node.js, Flask, MongoDB, SQL, TensorFlow, PyTorch, and more
+</div>
 
-🤝 Open to internships, collaborations, research opportunities, and hackathons
-
-⚡ Fun fact: I enjoy turning real-world problems into technology-driven solutions!
+<br/>
 
 ---
+
+## 💫 About Me & 🚀 What I Do
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👋 Hi, I'm Aditi Joshi</h3>
+
+      <p>
+        I'm a third-year Computer Engineering student passionate about
+        building practical solutions through code, AI, and full-stack development.
+      </p>
+
+      <ul>
+        <li>✨ I enjoy building <strong>full-stack applications</strong> and <strong>AI-powered systems</strong>.</li>
+        <li>🧠 I'm interested in <strong>Machine Learning, Generative AI, Data Analytics, and intelligent systems</strong>.</li>
+        <li>⚡ <strong>Fun Fact:</strong> I enjoy turning real-world problems into technology-driven solutions.</li>
+      </ul>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>🛠️ What I Focus On</h3>
+
+      <ul>
+        <li>Building full-stack web applications using React, Node.js, Express.js and Flask</li>
+        <li>Developing AI/ML solutions using Python, TensorFlow, PyTorch and Scikit-learn</li>
+        <li>Working with data using Pandas, NumPy, SQL, MongoDB and Power BI</li>
+        <li>Exploring Generative AI, NLP, Deep Learning and intelligent systems</li>
+      </ul>
+
+      <p>
+        🎯 <strong>Current Goal:</strong> Keep learning, build meaningful projects,
+        and solve real-world problems with technology.
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ## 🌐 Socials:
 
